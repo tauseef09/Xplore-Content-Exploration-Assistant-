@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "first_name": "dummy",
+            "last_name": "dummy",
+            "username": "dummy",
+            "password": "dummy",
+            "user_id": -1
+        },
+        {
+            "first_name": "Tauseef",
+            "last_name": "Tajwar",
+            "username": "a",
+            "password": "a",
+            "user_id": 943
+        }
+    ]
+}
