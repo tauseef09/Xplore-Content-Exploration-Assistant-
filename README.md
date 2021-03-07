@@ -39,7 +39,6 @@ pip install -r requirements.txt
 
 <p align="center">
     <img align="left" width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/LoginPage.PNG">
-    <img align="right" width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/RegisterPage.PNG">
 </p>
 
 <p align="center">
