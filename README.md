@@ -17,12 +17,19 @@ All the dependancies are listed in [requirements]("https://github.com/tauseef09/
 
 ### Installation
 To install, first create a virtual environment and activate it.
+
 ```
 python3 -m venv env_name
 source env_name/bin/activate
 ```
 ***"env_name"* should contain the name of the environment.**
 Then install all the packadges from the [requirements]("https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/requirements.txt").
+
 `pip install -r requirements.txt`
 
 > After installation, run the [**main.py**]("https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/main.py") file to run the application.
+
+#### Some screenshots
+<p align="center">
+    <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/LandingPage.PNG">
+</p>
