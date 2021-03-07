@@ -13,7 +13,7 @@ It also has a feature where the user can give take an image of their face and th
 ## Getting Started
 
 ### Prerequisites
-All the dependancies are listed in [requirements]("https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/requirements.txt")
+All the dependancies are listed in [requirements](https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/requirements.txt)
 
 ### Installation
 To install, first create a virtual environment and activate it.
@@ -23,13 +23,38 @@ python3 -m venv env_name
 source env_name/bin/activate
 ```
 ***"env_name"* should contain the name of the environment.**
-Then install all the packadges from the [requirements]("https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/requirements.txt").
+Then install all the packadges from the [requirements](https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/requirements.txt).
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
-> After installation, run the [**main.py**]("https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/main.py") file to run the application.
+> After installation, run the [**main.py**](https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/main.py) file to run the application.
 
-#### Some screenshots
+### Some screenshots
+
 <p align="center">
     <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/LandingPage.PNG">
 </p>
+This is the landing page.
+
+<p align="center">
+    <img align="left" width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/LoginPage.PNG">
+    <img align="right" width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/RegisterPage.PNG">
+</p>
+The login and register pages.
+
+<p align="center">
+    <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/HomePage.PNG">
+</p>
+This is the main menu.
+
+<p align="center">
+    <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/ListPage.PNG">
+</p>
+Movie recommendations generated based on preferences.
+
+<p align="center">
+    <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/SearchPage.PNG">
+</p>
+Searching for content.
