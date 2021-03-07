@@ -51,3 +51,13 @@ pip install -r requirements.txt
     Searching for content
 </p>
 
+### Authors
+This was part of the **CSE4407** course and submitted as the final project. The code is worked on by:
+- [Ishmam Tashdeed](https://github.com/ishmamt)
+- [Tauseef Tajwar](https://github.com/tauseef09)
+
+### Acknowledgments
+- <https://github.com/atulapra/Emotion-detection>
+- <https://github.com/krishnaik06/Movie-Recommender-in-python>
+
+> Any contributions or suggestions are welcome
