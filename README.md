@@ -36,25 +36,25 @@ pip install -r requirements.txt
 <p align="center">
     <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/LandingPage.PNG">
 </p>
-This is the landing page.
 
 <p align="center">
     <img align="left" width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/LoginPage.PNG">
     <img align="right" width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/RegisterPage.PNG">
 </p>
-The login and register pages.
+
+<p align="center">
+    <img align="right" width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/RegisterPage.PNG">
+</p>
 
 <p align="center">
     <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/HomePage.PNG">
 </p>
-This is the main menu.
 
 <p align="center">
     <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/ListPage.PNG">
 </p>
-Movie recommendations generated based on preferences.
 
 <p align="center">
     <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/SearchPage.PNG">
 </p>
-Searching for content.
+
