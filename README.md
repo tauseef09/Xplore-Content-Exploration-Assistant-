@@ -46,14 +46,10 @@ pip install -r requirements.txt
 </p>
 
 <p align="center">
-    <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/HomePage.PNG">
+    <img align="left" width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/ListPage.PNG">
 </p>
 
 <p align="center">
-    <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/ListPage.PNG">
-</p>
-
-<p align="center">
-    <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/SearchPage.PNG">
+    <img align="right" width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/SearchPage.PNG">
 </p>
 
