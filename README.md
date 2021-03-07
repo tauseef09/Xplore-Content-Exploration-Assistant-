@@ -35,13 +35,19 @@ pip install -r requirements.txt
 
 <p align="center">
     <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/LandingPage.PNG">
+    <br>
+    Landing page.
 </p>
 
 <p align="center">
-    <img align="left" width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/ListPage.PNG">
+    <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/ListPage.PNG">
+    <br>
+    Recommendations generated based on preferences.
 </p>
 
 <p align="center">
-    <img align="right" width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/SearchPage.PNG">
+    <img width="197" height="371" src="https://github.com/tauseef09/Xplore-Content-Exploration-Assistant-/blob/master/screenshots/SearchPage.PNG">
+    <br>
+    Searching for content
 </p>
 
